@@ -1,2 +1,2 @@
 
-core/package.json
+LICENSE
