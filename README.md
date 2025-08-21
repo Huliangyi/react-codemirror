@@ -1,2 +1,2 @@
 
-LICENSE
+README -> core/README.md
