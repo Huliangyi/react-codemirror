@@ -1,3 +1,3 @@
 
-core/README.md
+core/package.json
 
